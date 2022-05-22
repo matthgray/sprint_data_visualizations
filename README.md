@@ -2,13 +2,13 @@
 
 A personal project to visualize sprint data.
 
-#Purpose:
+# Purpose:
 
 Visualize KPI in a sprint.
 
-#Packages:
+# Packages:
 Streamlit for the application
 Plotly for the graphs
 
-#Deliverables:
+# Deliverables:
 Graphs to visualize Stories, Defects, Points, and Priority
